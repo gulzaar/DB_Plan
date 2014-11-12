@@ -1,0 +1,20 @@
+#header {
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:justify;
+    width:150px;
+    float:left;
+}
+#section {
+	height:justify;
+    width:850px;
+    float:left;
+    padding:10px;	 	 
+}
+span.tab{
+    padding: 0 80px; /* Or desired space*/
+}
