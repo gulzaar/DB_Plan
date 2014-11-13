@@ -1,5 +1,5 @@
 <?
-$cn=mysql_connect("localhost","root","");
-$dbname = "inventory";
+$cn=mysql_connect("localhost","amol","amol");
+$dbname = "demo";
 mysql_select_db($dbname,$cn);
 ?>

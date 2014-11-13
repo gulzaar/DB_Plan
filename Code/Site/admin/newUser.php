@@ -2,13 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
 <link href="css/common.css" rel="stylesheet" type="text/css" />
-<title>Order</title>
+<title>New User</title>
 </head>
 
 <body>
-	<div><?php include('../header.php');?></div>  <!-- header -->
+	<div><?php include('includes/header.php');?></div>  <!-- header -->
     
 <div id=nav> 
 			<ul>
@@ -22,9 +21,8 @@
 			<p>The Page is Under Construction</p>
     </div>      <!-- middle content -->
 
-<div><?php include('../footer.php');?> 
+<div><?php include('includes/footer.php');?> 
 </div>		<!-- footer -->
-
 
 </body>
 </html>

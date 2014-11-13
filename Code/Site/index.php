@@ -7,7 +7,7 @@
 </head>
 
 <body>
-	<div><?php include('includes/header.php');?></div>  <!-- header -->
+	<div><?php include('header.php');?></div>  <!-- header -->
     
 <div id=nav> 
 			<ul>
@@ -17,10 +17,11 @@
 	</div>
 		
 	<div id=section>
-	<?php include('includes/about.php');?>
-    </div>      <!-- middle content -->
+    <?php include('includes/about.php');?>
+    </div>      
+    <!-- middle content -->
 
-<div><?php include('includes/footer.php');?> 
+<div><?php include('footer.php');?> 
 </div>		<!-- footer -->
 
 </body>
